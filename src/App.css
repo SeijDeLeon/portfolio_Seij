@@ -1,3 +1,22 @@
+.doc-content {
+  padding: 0 !important;
+  max-width: 1200px !important;
+}
+
+.hero-bg {
+  background-image: url('../public/cornell/street.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 200px rgba(0, 0, 0, 0.7); /* Add dark shadow around the edges */
+  opacity: 0.75;
+
+}
+
+table {
+  margin: auto !important;
+}
+
 .App {
   text-align: center;
 }
