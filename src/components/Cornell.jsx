@@ -18,7 +18,7 @@ export default function Cornell() {
   return (
     <main className="w-full m-auto">
       <div className="relative max-h-[50vh] min-h-60 overflow-hidden bg-black">
-        <div className="w-full h-[50vh] hero-bg h-full border border-red">
+        <div className="w-full h-[50vh] hero-bg border border-red">
           <h1 className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 sm:text-3xl md:text-6xl font-bold text-white drop-shadow-lg w-full text-center px-4 py-2"
           style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.8)' }}>
             Cornell Block Party July 27th, 2024
